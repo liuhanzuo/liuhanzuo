@@ -124,13 +124,36 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
-<a href="https://github.com/liuhanzuo/Adaptive-Sparse-Trainer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuhanzuo&repo=Adaptive-Sparse-Trainer&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=667eea" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/liuhanzuo/Mixture-of-Memory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=liuhanzuo&repo=Mixture-of-Memory&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=667eea" />
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 [Adaptive-Sparse-Trainer](https://github.com/liuhanzuo/Adaptive-Sparse-Trainer)
+
+<img src="https://img.shields.io/badge/Semi--Structural_Pruning-Research-667eea?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/github/stars/liuhanzuo/Adaptive-Sparse-Trainer?style=flat-square&color=FFD700&labelColor=0d1117" />
+<img src="https://img.shields.io/github/forks/liuhanzuo/Adaptive-Sparse-Trainer?style=flat-square&color=667eea&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/top/liuhanzuo/Adaptive-Sparse-Trainer?style=flat-square&color=FF6B6B&labelColor=0d1117" />
+
+Efficient model compression via semi-structural pruning techniques 🚀
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 [Mixture-of-Memory](https://github.com/liuhanzuo/Mixture-of-Memory)
+
+<img src="https://img.shields.io/badge/Agent_Memory-Research-764ba2?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/github/stars/liuhanzuo/Mixture-of-Memory?style=flat-square&color=FFD700&labelColor=0d1117" />
+<img src="https://img.shields.io/github/forks/liuhanzuo/Mixture-of-Memory?style=flat-square&color=667eea&labelColor=0d1117" />
+<img src="https://img.shields.io/github/languages/top/liuhanzuo/Mixture-of-Memory?style=flat-square&color=FF6B6B&labelColor=0d1117" />
+
+Long-term knowledge management for AI agents 🧩
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -171,17 +194,26 @@
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="30"> GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=liuhanzuo&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=667eea&text_color=c9d1d9&ring_color=764ba2" />
+<!-- Stats Cards -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liuhanzuo&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=667eea&text_color=c9d1d9&ring_color=764ba2" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=liuhanzuo&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&icon_color=667eea&text_color=c9d1d9&ring_color=764ba2" />
+</picture>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuhanzuo&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liuhanzuo&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=liuhanzuo&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9" />
+</picture>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=liuhanzuo&theme=radical&hide_border=true&border_radius=15&background=0d1117&stroke=667eea&ring=FF6B6B&fire=FFD700&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9" />
+<!-- Streak Stats -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=liuhanzuo&theme=radical&hide_border=true&border_radius=15&background=0d1117&stroke=667eea&ring=FF6B6B&fire=FFD700&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=liuhanzuo&theme=redical&hide_border=true&bg_color=0d1117&color=FF6B6B&line=764ba2&point=FFD700&area=true&area_color=667eea" />
+<!-- Activity Graph -->
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=liuhanzuo&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF6B6B&line=764ba2&point=FFD700&area=true&area_color=667eea" />
 
 </div>
 
