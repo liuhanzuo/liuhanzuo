@@ -128,7 +128,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🧠 [Adaptive-Sparse-Trainer](https://github.com/liuhanzuo/Adaptive-Sparse-Trainer)
+### 🧠 [SparseForge](https://github.com/tsinghua-ideal/SparseForge)
 
 <img src="https://img.shields.io/badge/Semi--Structural_Pruning-Research-667eea?style=for-the-badge&labelColor=0d1117" />
 
